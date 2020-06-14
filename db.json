@@ -1,4 +1,5 @@
-[
+{
+  "people" : [
   {
     "name" : "josh"
   },
@@ -9,3 +10,4 @@
     "name": "jordan"
   }
 ]
+}
