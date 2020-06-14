@@ -1,4 +1,11 @@
-
-{
-  "test": "data"
-}
+[
+  {
+    "name" : "josh"
+  },
+  {
+    "name": "jacob"
+  },
+  {
+    "name": "jordan"
+  }
+]
